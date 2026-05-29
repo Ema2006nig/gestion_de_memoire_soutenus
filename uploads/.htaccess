@@ -1,0 +1,2 @@
+# Aucun acces direct aux PDF (passe par index.php?route=pdf)
+Require all denied

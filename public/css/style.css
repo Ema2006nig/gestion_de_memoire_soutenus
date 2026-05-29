@@ -1,0 +1,37 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,Arial,sans-serif;background:#f4f6fa;color:#222;line-height:1.5}
+header.nav{background:#1e3a8a;color:#fff;padding:12px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap}
+header.nav a{color:#fff;text-decoration:none;margin-right:14px;font-size:.95rem}
+header.nav a:hover{text-decoration:underline}
+header.nav .user{font-size:.9rem;opacity:.9}
+main{max-width:1100px;margin:24px auto;padding:0 16px}
+h1{font-size:1.5rem;margin-bottom:16px;color:#1e3a8a}
+h2{font-size:1.15rem;margin:18px 0 10px;color:#334155}
+.card{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:18px;margin-bottom:16px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.btn{display:inline-block;background:#1e3a8a;color:#fff;border:0;padding:9px 16px;border-radius:6px;cursor:pointer;text-decoration:none;font-size:.92rem}
+.btn:hover{background:#172554}
+.btn.alt{background:#475569}
+.btn.danger{background:#b91c1c}
+.btn.success{background:#15803d}
+label{display:block;margin:10px 0 4px;font-size:.9rem;color:#334155}
+input,select,textarea{width:100%;padding:9px;border:1px solid #cbd5e1;border-radius:6px;font:inherit}
+textarea{min-height:80px;resize:vertical}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden}
+th,td{padding:10px;border-bottom:1px solid #e5e7eb;text-align:left;font-size:.9rem}
+th{background:#f1f5f9;color:#334155}
+.flash{padding:10px 14px;border-radius:6px;margin-bottom:14px}
+.flash.ok{background:#dcfce7;color:#166534;border:1px solid #86efac}
+.flash.err{background:#fee2e2;color:#991b1b;border:1px solid #fca5a5}
+.badge{display:inline-block;padding:3px 8px;border-radius:12px;font-size:.75rem;background:#e2e8f0;color:#334155}
+.badge.ok{background:#bbf7d0;color:#166534}
+.badge.warn{background:#fde68a;color:#854d0e}
+.badge.bad{background:#fecaca;color:#991b1b}
+.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}
+.stat{background:#1e3a8a;color:#fff;padding:14px;border-radius:8px;text-align:center}
+.stat b{display:block;font-size:1.6rem}
+
+/* Visionneuse PDF : empeche selection et menu contextuel */
+.pdf-wrap{position:relative;width:100%;height:80vh;border:1px solid #cbd5e1;border-radius:6px;overflow:hidden;background:#222}
+.pdf-wrap iframe{width:100%;height:100%;border:0}
+.pdf-wrap .shield{position:absolute;inset:0;pointer-events:none}
+.no-select{user-select:none;-webkit-user-select:none}

@@ -1,0 +1,5 @@
+# Protection du dossier public
+Options -Indexes
+<Files ~ "\.(env|log|sql)$">
+  Require all denied
+</Files>
