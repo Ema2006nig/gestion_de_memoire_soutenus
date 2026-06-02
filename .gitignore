@@ -1,0 +1,13 @@
+/vendor/
+/node_modules/
+.env
+storage/logs/*.log
+storage/cache/*
+public/uploads/memoires/*
+public/uploads/profils/*
+!public/uploads/memoires/.gitkeep
+!public/uploads/profils/.gitkeep
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
