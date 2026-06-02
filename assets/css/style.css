@@ -1,0 +1,24 @@
+/* ============================================================
+   Mémoires Soutenus — style.css (fallback minimal)
+   ------------------------------------------------------------
+   Le design system principal est piloté par Tailwind CSS via
+   View/shared/theme.php (CDN + @apply). Ce fichier ne contient
+   que les bases ultra-minimales utilisées avant le chargement
+   de Tailwind, pour éviter tout flash visuel.
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+               system-ui, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 14px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+input, select, textarea { font-family: inherit; color: inherit; }
+h1, h2, h3, h4, h5, h6, p { margin: 0; }
