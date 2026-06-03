@@ -130,18 +130,33 @@ La charte visuelle a été entièrement refondue :
 Tous les styles sont concentrés dans `assets/css/style.css` ; aucun framework
 externe n'est requis côté front (pas de Tailwind CDN, pas de Font Awesome).
 
-- Directeur des Études : Jean-Pierre Moukouyou se connecte avec l'identifiant ** admin_de ** et le mot de passe ** password **.
-- Bibliothécaire : Claire Ndong se connecte avec l'identifiant ** bibliothecaire ** et le mot de passe ** password **.
-- Professeurs : 
-Paul Martin se connecte avec l'identifiant ** prof.martin ** et le mot de passe **password **.
-Aminata Diallo se connecte avec l'identifiant ** prof.diallo ** et le mot de passe ** password **.
-Marcel Tchibozo se connecte avec l'identifiant ** prof.tchibozo ** et le mot de passe ** password **.
+Directeur des Études (DE)
 
-Étudiants diplômés : 
-Jean Dupont se connecte avec l'identifiant ** jean.dupont ** et le mot de passe password.
-Marie Koné se connecte avec l'identifiant ** marie.kone ** et le mot de passe password.
-Pierre Nze se connecte avec l'identifiant ** pierre.nze ** et le mot de passe password.
-Franck Mboumba se connecte avec l'identifiant ** franck.mboumba ** et le mot de passe password.
+Identifiant : admin_de | Email : de@uatm.ga | Mot de passe : password | Nom : Jean-Pierre Moukouyou
+
+Bibliothécaire
+
+Identifiant : bibliothecaire | Email : biblio@uatm.ga | Mot de passe : password | Nom : Claire Ndong
+
+Professeurs
+
+Identifiant : prof.martin | Email : paul.martin@uatm.ga | Mot de passe : password | Nom : Paul Martin
+Identifiant : prof.diallo | Email : aminata.diallo@uatm.ga | Mot de passe : password | Nom : Aminata Diallo
+Identifiant : prof.tchibozo | Email : marcel.tchibozo@uatm.ga | Mot de passe : password | Nom : Marcel Tchibozo
+
+Étudiants diplômés
+
+Identifiant : jean.dupont | Email : jean.dupont@etud.uatm.ga | Mot de passe : password | Nom : Jean Dupont
+Identifiant : marie.kone | Email : marie.kone@etud.uatm.ga | Mot de passe : password | Nom : Marie Koné
+Identifiant : pierre.nze | Email : pierre.nze@etud.uatm.ga | Mot de passe : password | Nom : Pierre Nze
+Identifiant : franck.mboumba | Email : franck.mboumba@etud.uatm.ga | Mot de passe : password | Nom : Franck Mboumba
+Identifiant : bertrand.leyama | Email : bertrand.leyama@etud.uatm.ga | Mot de passe : password | Nom : Bertrand Leyama
+
+Étudiants consultants
+
+Identifiant : grace.assoumou | Email : grace.assoumou@etud.uatm.ga | Mot de passe : password | Nom : Grace Assoumou
+Identifiant : aurelie.meye | Email : aurelie.meye@etud.uatm.ga | Mot de passe : password | Nom : Aurélie Meye
+Identifiant : felix.magnagna | Email : felix.magnagna@etud.uatm.ga | Mot de passe : password | Nom : Felix Magnagna
 Bertrand Leyama se connecte avec l'identifiant ** bertrand.leyama ** et le mot de passe password.
 
 Étudiants consultants : 
