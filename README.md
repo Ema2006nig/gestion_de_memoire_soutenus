@@ -129,3 +129,22 @@ La charte visuelle a été entièrement refondue :
 
 Tous les styles sont concentrés dans `assets/css/style.css` ; aucun framework
 externe n'est requis côté front (pas de Tailwind CDN, pas de Font Awesome).
+
+- Directeur des Études : Jean-Pierre Moukouyou se connecte avec l'identifiant ** admin_de ** et le mot de passe ** password **.
+- Bibliothécaire : Claire Ndong se connecte avec l'identifiant ** bibliothecaire ** et le mot de passe ** password **.
+- Professeurs : 
+Paul Martin se connecte avec l'identifiant ** prof.martin ** et le mot de passe **password **.
+Aminata Diallo se connecte avec l'identifiant ** prof.diallo ** et le mot de passe ** password **.
+Marcel Tchibozo se connecte avec l'identifiant ** prof.tchibozo ** et le mot de passe ** password **.
+
+Étudiants diplômés : 
+Jean Dupont se connecte avec l'identifiant ** jean.dupont ** et le mot de passe password.
+Marie Koné se connecte avec l'identifiant ** marie.kone ** et le mot de passe password.
+Pierre Nze se connecte avec l'identifiant ** pierre.nze ** et le mot de passe password.
+Franck Mboumba se connecte avec l'identifiant ** franck.mboumba ** et le mot de passe password.
+Bertrand Leyama se connecte avec l'identifiant ** bertrand.leyama ** et le mot de passe password.
+
+Étudiants consultants : 
+Grace Assoumou se connecte avec l'identifiant ** grace.assoumou ** et le mot de passe password.
+Aurélie Meye se connecte avec l'identifiant ** aurelie.meye ** et le mot de passe password.
+Felix Magnagna se connecte avec l'identifiant ** felix.magnagna ** et le mot de passe password.
