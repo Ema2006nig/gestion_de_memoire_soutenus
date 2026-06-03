@@ -129,4 +129,3 @@ La charte visuelle a été entièrement refondue :
 
 Tous les styles sont concentrés dans `assets/css/style.css` ; aucun framework
 externe n'est requis côté front (pas de Tailwind CDN, pas de Font Awesome).
-
